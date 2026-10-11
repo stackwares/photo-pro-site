@@ -1,0 +1,9 @@
+Refracted Light — original abstract demonstration artwork, generated for Photo Pro
+using the built-in OpenAI image_gen tool, 2026-10-11, without reference images.
+
+To the extent the Photo Pro publisher holds copyright and related rights in this
+image, those rights are waived under CC0 1.0 Universal (public-domain dedication).
+https://creativecommons.org/publicdomain/zero/1.0/
+
+No people, personal photographs, third-party assets or stock images were used.
+The generation prompt is recorded in assets/brand/sources/prompts.json.

@@ -1,0 +1,14 @@
+Photo Pro visual identity
+Copyright (c) 2026 Photo Pro contributors. All rights reserved.
+
+The new optical-ribbon app icon, companion logo/mark, wordmarks, identity board
+and marketing layouts were created for this Photo Pro distribution. The publisher
+may use, modify and distribute these identity assets with Photo Pro and its
+marketing. No permission is granted to reuse this identity for an unrelated
+product. The repository's MIT/Apache code licenses do not grant a license to
+these new brand assets.
+
+Inter letterform outlines retain their SIL Open Font License 1.1 terms and notices;
+see OFL-Inter.txt. The original generated demonstration image is separately
+released under CC0; see assets/demo/LICENSE-refracted-light.txt. Archived upstream
+PhotoCraft artwork retains its original MIT OR Apache-2.0 terms.
